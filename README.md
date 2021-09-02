@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiprotich Kelly
 - 👀 I’m interested in data science
-- 🌱 I’m currently taling the AWS machine learning course
+- 🌱 I’m currently taking the AWS machine learning course with Udacity and Andela's GADs scholarship for Google Cloud with PluralSight.
 - 💞️ I’m looking to collaborate on big data
 - 📫  reach me on twitter @bett_kelly, or email me at kiprotichkelly2@gmail.com
 
