@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiprotich Kelly
-- 👀 I’m interested in data science
-- 🌱 I’m currently taking the Andela's GADs scholarship for Google Cloud with PluralSight.
-- 💞️ I’m looking to collaborate on big data
+
+
+
 - 📫  Reach me via mail at kiprotichkelly2@gmail.com
 
 <!---
